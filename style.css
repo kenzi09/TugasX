@@ -1,0 +1,21 @@
+naav{
+    height: 100vh;
+    background-color: rgb(226, 0, 0);
+    background-image: url('img/bg-kayu.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: justify;
+    font-size: 20px;
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    margin-bottom: 20px;
+    color: rgb(230, 230, 230);
+    text-decoration: none;
+    border: 2px solid rgb(70, 70, 70);
+    border-radius: 50%;
+    border-radius: 10px;
+    color: white;
+    display: none;
+}
